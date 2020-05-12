@@ -1,0 +1,10 @@
+Q : If you should deliver this application to users, what should you do? (api etc.)
+
+A : I will make it as web server that can comunicate with the front end via api
+save user preferences(tempearute format, cities that they look most, geolocation).
+
+Q : Why did you use these packages?
+
+A : I used 2 packages yargs and iqnuier
+yargs is packages where i can easily get the flags entered by user
+and inquier is a packagce with good cli interfece for asking prompt questions
